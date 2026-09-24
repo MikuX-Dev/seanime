@@ -143,7 +143,7 @@
     "@rsbuild/core": "^2.1.3",
     "@rsbuild/plugin-node-polyfill": "^1.4.6",
     "@rsbuild/plugin-react": "^2.1.0",
-    "@rsdoctor/rspack-plugin": "^1.5.8",
+    "@rsdoctor/rspack-plugin": "^1.5.16",
     "@tanstack/router-plugin": "^1.168.19",
     "@types/crypto-js": "^4.2.2",
     "@types/fs-extra": "^11.0.4",
