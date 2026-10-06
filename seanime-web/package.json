@@ -64,7 +64,7 @@
     "@zag-js/number-input": "^1.42.0",
     "@zag-js/react": "^1.42.0",
     "anime4k-webgpu": "^1.0.0",
-    "axios": "^1.18.1",
+    "axios": "^1.20.0",
     "bottleneck": "^2.19.5",
     "bytes-iec": "^3.1.1",
     "chalk": "^5.6.2",
