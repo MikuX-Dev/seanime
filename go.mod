@@ -36,7 +36,7 @@ require (
 	github.com/huin/goupnp v1.3.0
 	github.com/imroc/req/v3 v3.57.0
 	github.com/kr/pretty v0.3.1
-	github.com/labstack/echo/v4 v4.15.0
+	github.com/labstack/echo/v4 v4.16.1
 	github.com/mileusna/useragent v1.3.5
 	github.com/mmcdole/gofeed v1.3.0
 	github.com/ncruces/go-dns v1.3.2
@@ -50,12 +50,12 @@ require (
 	github.com/spf13/viper v1.21.0
 	github.com/stretchr/testify v1.11.1
 	github.com/ziflex/lecho/v3 v3.9.0
-	golang.org/x/crypto v0.52.0
+	golang.org/x/crypto v0.57.0
 	golang.org/x/image v0.40.0
-	golang.org/x/net v0.54.0
-	golang.org/x/term v0.43.0
-	golang.org/x/text v0.37.0
-	golang.org/x/time v0.14.0
+	golang.org/x/net v0.60.0
+	golang.org/x/term v0.46.0
+	golang.org/x/text v0.42.0
+	golang.org/x/time v0.15.0
 	gopkg.in/vansante/go-ffprobe.v2 v2.3.0
 	gorm.io/gorm v1.31.1
 )
@@ -63,8 +63,8 @@ require (
 require (
 	github.com/RoaringBitmap/roaring/v2 v2.16.0 // indirect
 	golang.org/x/mobile v0.0.0-20260602190626-68735029466e // indirect
-	golang.org/x/mod v0.36.0 // indirect
-	golang.org/x/tools v0.45.0 // indirect
+	golang.org/x/mod v0.41.0 // indirect
+	golang.org/x/tools v0.49.0 // indirect
 )
 
 require (
@@ -129,10 +129,10 @@ require (
 	github.com/klauspost/compress v1.18.2 // indirect
 	github.com/klauspost/cpuid/v2 v2.2.3 // indirect
 	github.com/kr/text v0.2.0 // indirect
-	github.com/labstack/gommon v0.4.2 // indirect
+	github.com/labstack/gommon v0.5.0 // indirect
 	github.com/lucasb-eyer/go-colorful v1.2.0 // indirect
-	github.com/mattn/go-colorable v0.1.14 // indirect
-	github.com/mattn/go-isatty v0.0.20 // indirect
+	github.com/mattn/go-colorable v0.1.15 // indirect
+	github.com/mattn/go-isatty v0.0.22 // indirect
 	github.com/mattn/go-runewidth v0.0.16 // indirect
 	github.com/minio/sha256-simd v1.0.0 // indirect
 	github.com/mmcdole/goxpp v1.1.1-0.20240225020742-a0c311522b23 // indirect
@@ -194,8 +194,8 @@ require (
 	go.uber.org/atomic v1.11.0
 	go.yaml.in/yaml/v3 v3.0.4 // indirect
 	golang.org/x/exp v0.0.0-20251113190631-e25ba8c21ef6 // indirect
-	golang.org/x/sync v0.20.0
-	golang.org/x/sys v0.45.0
+	golang.org/x/sync v0.23.0
+	golang.org/x/sys v0.48.0
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	lukechampine.com/blake3 v1.1.6 // indirect
 	modernc.org/libc v1.41.0 // indirect
